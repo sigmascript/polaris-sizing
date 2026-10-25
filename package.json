@@ -19,13 +19,13 @@
     "Web",
     "Framework"
   ],
-  "homepage": "https://github.com/heminsatya/polaris-sizing#readme",
+  "homepage": "https://github.com/sigmascript/polaris-sizing#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heminsatya/polaris-sizing.git"
+    "url": "git+https://github.com/sigmascript/polaris-sizing.git"
   },
   "bugs": {
-    "url": "https://github.com/heminsatya/polaris-sizing/issues"
+    "url": "https://github.com/sigmascript/polaris-sizing/issues"
   },
   "devDependencies": {
     "polaris-core": "1.0.6",
