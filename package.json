@@ -1,6 +1,6 @@
 {
   "name": "polaris-sizing",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Polaris Sizing Plugin for Polaris Framework. A set of responsive classes for controlling 'height', and 'width' of HTML elements.",
   "author": "Hemin Satya",
   "license": "MIT",
